@@ -3,7 +3,7 @@
 - React is a free and open-source front-end JavaScript library for building user interfaces based on UI components.
 - To use: clone this repository and host it locally:
 -     $ git clone https://github.com/Chinmayeegade/Resume_Builder.git
--     $ npm start
+      $ npm start
 - The app will be accessible at http://localhost:8080
 
 # Getting Started with Create React App
